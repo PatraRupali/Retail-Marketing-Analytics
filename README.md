@@ -112,9 +112,33 @@ Complete end-to-end data analytics project analyzing retail sales performance ac
 - MEDIUM activity dominates at **76% of transactions**
 
 ---
+## 💼 Business Recommendations
 
-## 📁 Project Structure
+### 🍺 Alcohol
+- 📅 **Focus marketing in summer months** — July 
+  is consistently peak month at $588K
+- 🍺 **Prioritize Beer category** — drives 66% 
+  of total alcohol revenue
+- 🤝 **Strengthen Crown Imports relationship** — 
+  top supplier at $200K — critical vendor
+- 🏆 **Promote Corona Extra family** — contributes 
+  $88K combined — highest selling product line
 
+### 🧃 Non-Alcohol
+- 🧊 **Stock ICE heavily in summer** — single 
+  product drives 31% of non-alcohol revenue
+- 🏪 **Focus on retail channel** — drives 74% 
+  of non-alcohol sales vs warehouse
+- 🤝 **Build Anheuser Busch relationship** — 
+  top identified non-alcohol supplier
+
+### 🏭 Operational
+- 📉 **Investigate returns & credits** — net 
+  negative balance of -$2.47K needs attention
+- 📦 **Review UNKNOWN package classifications** — 
+  largest operational category is unclassified
+- 🏆 **Monitor Miller Brewing closely** — top 
+  operational supplier at 1,508 units
 ---
 
 ## 📅 Data Information
