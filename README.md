@@ -44,7 +44,7 @@ Complete end-to-end data analytics project analyzing retail sales performance ac
 - **Operational** → STR_SUPPLIES, KEGS, DUNNAGE records
 - Each category analysed independently for focused insights
 
-### ️⃣ Feature Engineering
+### 4️⃣ Feature Engineering
 - Extracted bottle sizes using Regex
 - Created bottle categories (SMALL / MEDIUM / STANDARD / LARGE)
 - Created package size features
@@ -62,7 +62,7 @@ Complete end-to-end data analytics project analyzing retail sales performance ac
 - Correlation analysis
 - Activity distribution analysis
 
-### 5️⃣ Power BI Dashboard
+### 6️⃣ Power BI Dashboard
 4-page interactive dashboard:
 - Executive Summary
 - Alcohol Analysis
