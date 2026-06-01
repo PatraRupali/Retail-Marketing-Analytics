@@ -74,16 +74,16 @@ Complete end-to-end data analytics project analyzing retail sales performance ac
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](Images/executive_summary.png)
 
 ### Alcohol Analysis
-![Alcohol Analysis](images/alcohol_analysis.png)
+![Alcohol Analysis](Images/alcohol_analysis.png)
 
 ### Non-Alcohol Analysis
-![Non-Alcohol Analysis](images/non_alcohol_analysis.png)
+![Non-Alcohol Analysis](Images/non_alcohol_analysis.png)
 
 ### Operational Analysis
-![Operational Analysis](images/operational_analysis.png)
+![Operational Analysis](Images/operational_analysis.png)
 
 ---
 
