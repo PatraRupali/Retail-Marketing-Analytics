@@ -1,6 +1,6 @@
 # 🛒 Retail & Marketing Analytics — End-to-End Data Analytics Project
 
-![Dashboard Preview](images/executive_summary.png)
+![Dashboard Preview](Images/executive_summary.png)
 
 ---
 
